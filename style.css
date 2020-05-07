@@ -1,0 +1,285 @@
+
+body{
+	margin:0;
+}
+.topbar{
+	padding: 8px 0;
+	background-color:steelblue;
+    color: #fff;
+    display: flex;
+	justify-content: space-around;
+	
+}
+.icons i{
+	padding: 6px;
+	background-color:steelblue
+}
+  .icons i:hover{
+	background-color: rgb(56, 167, 236); 
+}
+.top-btns a{
+	
+	text-decoration: none;
+	background-color:#fff;
+	
+	
+}
+.topbar-text{
+	padding: 9px  0;
+}
+
+.menubar{
+	padding: 20px ;
+	display: flex;
+	justify-content: space-around;
+	/* position: fixed;
+	width: 100px; */
+}
+.logo img{
+	width: 14em;
+	position: relative;
+	left: 100px;
+	
+	
+}
+
+.menu-butons a{
+	
+	
+	padding: 8px;
+	cursor: pointer;
+
+  
+
+	
+}
+.menu-butons button{
+	
+	border-radius: 40px;
+}
+.menu-butons button:hover{
+	background-color: steelblue; 
+	color: white;
+}
+.slide img{
+	
+}
+
+ .news{
+	 padding: 8px;
+	background-color:rgb(17, 131, 224); 
+}
+ 
+
+span{
+	color:rgb(13, 252, 13);
+}
+
+ 
+  .intro p{
+	
+	  text-align: center;
+	  display: inline;
+	  
+  }
+  .intro-text p{
+	  color: rgb(129, 123, 123);
+	   text-align: justify;
+	   
+	 
+	  margin: 10px 200px;
+	display: block;
+	
+ 
+	  
+  }
+  
+.blue-bar{
+	padding-bottom: 40px;
+	padding-top: 40px;
+	
+	background-color:  rgb(16, 16, 214);
+	display: flex;
+    justify-content: space-evenly;
+}
+.column {
+	color: gainsboro;
+	 text-align: center;
+	 
+}
+    .service-box{
+		padding: 20px;
+	    margin: 10px;
+		display: flex;
+		justify-content:  space-evenly;
+		margin: 3px 150px;
+		
+}
+
+
+	
+.service p{
+	font-weight: 900;
+	font-size: xx-large;
+	
+    
+
+
+}
+.row{
+	color: blue;
+	text-align: center;
+	height: 150px;
+	width: 300px;
+		padding: 20px;
+		margin: 10px;
+	box-shadow: 5px 10px 18px #888888;
+}
+		
+.mission-main {
+   
+	display: flex;
+}
+.mission{
+	border: 1px solid red;
+	padding: 20px;
+	width: 59%;
+}
+
+.event{
+	width: 39%;
+	border: 1px solid red;
+	padding: 20px;
+}
+
+.mission-main hepa{
+	border: 1px solid red;
+	
+}
+
+
+
+.gallery-box{
+	margin-left: 40px;
+    margin-right: 40px;
+	display: flex;
+	
+
+	
+	
+}
+
+
+.img-gallery p{
+	font-weight: 900;
+	font-size: xx-large;
+}
+.column1 {
+    margin: 2px;
+}
+
+.column1 img{
+	width: 250px;
+	padding-right: 0px;
+	margin-right: 0px;
+		
+}
+
+
+.mission-main-row{
+
+	display: flex;
+	padding: 10px;
+	margin: 3px 150px;
+
+
+}
+.mission-col{
+	
+	 width: 60%;
+	 padding: 10px;
+
+}
+.event-col{
+	width: 40%;
+	padding: 10px;
+}
+
+.blue-heading{
+	text-align: left;
+	font-size: 24px;
+	color:#316DC3;
+	font-weight: 600;
+}
+
+.mission-box{
+	display: flex;	
+}
+
+.col{
+	display: flex;
+    align-items: center;
+	border: 1px solid #eeeeee;
+	background-color: #f7f8fa;
+	padding:15px;
+	margin: 5px;
+	text-align: left;
+	width: 50%;
+}
+.mission-text{
+	font-size: 16px;
+	color:#316DC3;
+	font-weight: 600;
+	padding-left: 10px;
+}
+.event-text{
+	text-align: left;
+	color: rgb(129, 123, 123);
+}
+.footer-main{
+	margin-top: 90px;
+	display: flex;
+	height: 300px;
+	background-color: rgb(29, 28, 28);
+	border-style: solid;
+	color: rgb(129, 123, 123);
+	padding: 50px;
+	box-sizing: border-box;
+	
+}
+  .col3{
+	  
+	height: 200px;
+	width: 300px;
+	text-align: left;
+	line-break: normal ;
+	font-size: 15px;
+	font-weight: 100;
+	line-height: 24px;
+	margin-left: 150px;
+  }
+  .col3  img{
+	  height: 18px;
+	  width: 15px;
+	 
+  }
+  .col-link{
+	  color: rgb(242, 242, 250);
+	height: 250px;
+	width: 300px;
+  }
+ .col-icon{
+	color: rgb(241, 241, 250);
+ }
+.botm{
+	   height: 40px;
+	   width: auto;
+	background-color:#316DC3;
+	text-align: left;
+	
+	color: rgb(242, 242, 250);
+	font-size: 1em;
+	font-weight: lighter;
+	
+}
+ 
